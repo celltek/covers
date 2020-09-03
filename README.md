@@ -1,2 +1,1 @@
-# covers
-Automated Gameserver Covers for TekBASE
+## Automated Automated Covers for TekBASE
